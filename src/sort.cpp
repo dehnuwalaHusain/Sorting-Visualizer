@@ -20,7 +20,7 @@ void displayMe ( void )
 {
     float numbers [ 200 ];
 
-    // Initializes an array with progressively ascending numbers and shuffeles them in order to sort them.    
+    // Initializes an array with progressively ascending numbers and shuffles them in order to sort them.    
     initializeArray ( numbers );
     
     dispTemp ( numbers, -1, -1, "" );
