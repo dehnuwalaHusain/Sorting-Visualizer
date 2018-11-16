@@ -21,12 +21,12 @@ if ( numbers [ element1 ] > numbers [ element2 ])
 All you've got to do is add the following line before and after the comparision you do for a potential swap.
 
 ```
-dispTemp ( your_array, last_element_compared1, last_element_compared2, "Your Algorithm" );
-if ( numbers [ element1 ] > numbers [ element2 ])
+dispTemp ( your_array, element_index1, element_index2, "Your Algorithm" );
+if ( numbers [ element_index1 ] > numbers [ element_index2 ])
 {
 	swap (element1, element2);
 }
-dispTemp ( your_array, last_element_compared1, last_element_compared2, "Your Algorithm" );
+dispTemp ( your_array, element_index1, element_index2, "Your Algorithm" );
 ```
 
 ## Compilation
