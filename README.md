@@ -8,7 +8,7 @@ So I've used OpenGL for the visualization part. Nothing else you see is too hard
 Currently, only two algorithms are visualized, Bubble sort and Quick Sort.
 Adding new algorithms there isn't a challenge really, hence I'll pass on making any further updates here.
 In case you want to add any algorithms, feel free.
-All you've got to do is add the following line before and after the comparision you do before a potential swap.
+All you've got to do is add the following line before and after the comparision you do for a potential swap.
 
 `dispTemp ( your_array, last_element_compared1, last_element_compared2, "Your Algorithm" );`
 
