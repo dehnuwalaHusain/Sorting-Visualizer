@@ -1,6 +1,8 @@
 # Sorting-Visualizer
 Ever wondered how the array you've been trying to sort is actually getting sorted? How well your algorithm is working? How actually the array sorting process looks like in the background? sorting-visualizer does just that.
 
+Watch the video [here] to get an idea. (Sorting-Visualizer/SortVisualizer)
+
 ## Working
 So I've used OpenGL for the visualization part. Nothing else you see is too hard to figure out.
 Currently, only two algorithms are visualized, Bubble sort and Quick Sort.
