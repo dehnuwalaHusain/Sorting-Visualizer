@@ -1,7 +1,7 @@
 # Sorting-Visualizer
 Ever wondered how the array you've been trying to sort is actually getting sorted? How well your algorithm is working? How actually the array sorting process looks like in the background? sorting-visualizer does just that.
 
-Watch the video [here](https://github.com/Sorting-Visualizer/SortVisualizer) to get an idea.
+Watch the video [here](https://github.com/dehnuwalaHusain/Sorting-Visualizer/blob/master/SortingVisualizer) to get an idea. (You'll have to download that video and play it locally).
 
 ## Working
 So I've used OpenGL for the visualization part. Nothing else you see is too hard to figure out.
