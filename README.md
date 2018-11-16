@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-Ever wondered how the array you've been trying to sort is actually getting sorted? How well your algorithm is working? How actually the array sorting process looks in the background? sorting-visualizer does just that.
+Ever wondered how the array you've been trying to sort is actually getting sorted? How well your algorithm is working? How actually the array sorting process looks like in the background? sorting-visualizer does just that.
 
 ## Working
 So I've used OpenGL for the visualization part. Nothing else you see is too hard to figure out.
