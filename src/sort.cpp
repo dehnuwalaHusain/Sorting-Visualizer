@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 #include <bits/stdc++.h>
-#include "algorithms.h"
+#include "algorithms.hpp"
 using namespace std; 
 
 /*

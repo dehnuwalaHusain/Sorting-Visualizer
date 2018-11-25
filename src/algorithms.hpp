@@ -1,4 +1,4 @@
-#include "backend.h"
+#include "backend.hpp"
 /*
  * -------------------------------------------------
  * Bubble Sort
@@ -12,7 +12,7 @@ void bubble_sort ( float numbers [ 200 ])
         {
             dispTemp ( numbers, j, j + 1, "Bubble Sort" );
             if ( numbers [ j ] > numbers [ j + 1 ])
-            {
+            {   
                 float temp = numbers [ j ];
                 numbers [ j ] = numbers [ j + 1 ];
                 numbers [ j + 1 ] = temp;
